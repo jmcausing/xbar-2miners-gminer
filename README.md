@@ -6,7 +6,9 @@ This is to display data (Hashrate from gminer and unpaid balance from 2miners) t
 Links: 
 
 Xbar macOS - https://xbarapp.com/
+
 2miners API - https://apidoc.2miners.com/
+
 Gminer - https://github.com/develsoftware/GMinerRelease
 
 
