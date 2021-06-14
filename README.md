@@ -11,6 +11,9 @@ Xbar macOS - https://xbarapp.com/
 
 Gminer - https://github.com/develsoftware/GMinerRelease
 
+![image](https://user-images.githubusercontent.com/10601417/121869944-22753700-cd35-11eb-9ebf-536b066c6e0d.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/10601417/121616994-99d96b00-ca96-11eb-8be4-9235bfdd537a.png)
 
