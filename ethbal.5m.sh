@@ -7,7 +7,7 @@ export PATH="/usr/local/bin:$PATH"
 
 JQ=$(command -v jq)
 
-json1=$(curl -s https://eth.2miners.com/api/accounts/0xad26dc72fcf82ce0c3838575624493506bf1d90d) # Get data from 2miners API wallet
+json1=$(curl -s https://eth.2miners.com/api/accounts/xxxxxxxxxxxxxxx) # Get data from 2miners API wallet
 
 balance_none_eth=$($JQ -r ".stats | .balance" <<< $json1) # Get current 1ETH to PHP value
 
